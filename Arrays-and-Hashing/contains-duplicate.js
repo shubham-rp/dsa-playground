@@ -3,3 +3,6 @@ var containsDuplicate = function (nums) {
 
   return arraySet.size !== nums.length;
 };
+
+// SC - O(N)
+// TC - O(N)
